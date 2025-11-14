@@ -13,29 +13,29 @@
 ---
 
 ### 🌐 Connect With POPKID  
-<a href="https://whatsapp.com/channel/0029Vb3hlgX5kg7G0nFggl0Y"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="11%"></a>
+<a href="https://whatsapp.com/channel/0029VacgxK96hENmSRMRxx1r"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="11%"></a>
 <a href="https://instagram.com/popkidke"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="12%"></a>
 
 ---
 
 ### 📊 GitHub Performance
-<img src="https://github-readme-stats.vercel.app/api?username=popkidke&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=popkidke&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=popkidmd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=popkidmd&theme=tokyonight&date_format=j%20M%5B%20Y%5D" width="48%">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popkidke&layout=compact&theme=tokyonight&langs_count=8" width="48%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popkidmd&layout=compact&theme=tokyonight&langs_count=8" width="48%">
 
 ---
 
 ### 🏆 Achievements  
-<img src="https://github-profile-trophy.vercel.app/?username=popkidke&theme=matrix&no-bg=true&row=1&column=7" width="95%">
+<img src="https://github-profile-trophy.vercel.app/?username=popkidmd&theme=matrix&no-bg=true&row=1&column=7" width="95%">
 
 ---
 
 ## 🛠️ Featured Project
-<a href="https://github.com/popkidke/POPKID-MD">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=popkidke&repo=POPKID-MD&theme=tokyonight&hide_border=false">
+<a href="https://github.com/popkidmd/POPKID-MD">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=popkidmd&repo=POPKID-MD&theme=tokyonight&hide_border=false">
 </a>
 
 ---
