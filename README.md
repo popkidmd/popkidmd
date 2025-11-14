@@ -14,7 +14,7 @@
 
 ### 🌐 Connect With POPKID  
 <a href="https://whatsapp.com/channel/0029VacgxK96hENmSRMRxx1r"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="11%"></a>
-<a href="https://instagram.com/popkidke"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="12%"></a>
+<a href="https://instagram.com/popkid_ke"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="12%"></a>
 
 ---
 
