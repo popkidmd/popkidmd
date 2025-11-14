@@ -9,7 +9,7 @@
 ---
 
 ### 🟣 POPKID DIGITAL CARD
-<img src="https://cardivo.vercel.app/api?name=POPKID&description=Full%20Stack%20Developer%20from%20Kenya%20%7C%20Bots%20%2B%20Web%20Apps&image=https://github.com/popkidke.png?size=200&backgroundColor=1a1a1a&fontColor=00eaff&iconColor=00eaff&pattern=ticTacToe&github=popkidke&instagram=popkidke&twitter=popkidke" width="90%">
+<img src="https://cardivo.vercel.app/api?name=POPKID&description=Full%20Stack%20Developer%20from%20Kenya%20%7C%20Bots%20%2B%20Web%20Apps&image=https://files.catbox.moe/kiy0hl.jpg?size=200&backgroundColor=1a1a1a&fontColor=00eaff&iconColor=00eaff&pattern=ticTacToe&github=popkidke&instagram=popkidke&twitter=popkidke" width="90%">
 
 ---
 
